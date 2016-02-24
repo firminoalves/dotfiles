@@ -3,7 +3,7 @@
 To get started please run:
 
 ```bash
-sh -c "`curl -fsSL https://raw.githubusercontent.com/tiagojsalmeida/dotfiles/master/install.sh`"
+sh -c "`curl -fsSL https://raw.githubusercontent.com/firminoalves/dotfiles/master/install.sh`"
 ```
 **Always be sure to run `rake update` after pulling to ensure plugins are updated**
 
@@ -11,7 +11,7 @@ sh -c "`curl -fsSL https://raw.githubusercontent.com/tiagojsalmeida/dotfiles/mas
 about each one, use:
 
 ```bash
-sh -c "`curl -fsSL https://raw.githubusercontent.com/tiagojsalmeida/dotfiles/master/install.sh`" -s ask
+sh -c "`curl -fsSL https://raw.githubusercontent.com/firminoalves/dotfiles/master/install.sh`" -s ask
 ```
 
 ## Wait, you're not done! Do this:
